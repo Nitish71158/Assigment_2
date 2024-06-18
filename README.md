@@ -10,6 +10,7 @@ Executing Program
 To run this program, you can use Remix, an online Solidity IDE.
 And run the code.
 
+//Pragma is compiler directive that allows additional information to compiler 
 pragma solidity ^0.8.18;
 
 contract MyToken {
